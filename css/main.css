@@ -1,0 +1,66 @@
+/*The steps for making Broiled Lobster Tails are taken from https://gimmedelicious.com/broiled-lobster-tails/ */
+*{box-sizing: border-box;}
+body 
+{
+    padding-left: 50px;    
+	padding-right: 50px;
+    background-image: url("../images/pexels_background.jpg");
+    background-size: cover;
+}
+/*The background Image is taken from Pexels and it is a Royalty free image. */
+h1 
+{
+	font-family: courier, monospace,serif;
+    text-align: center;
+    font-size: 4em;    
+    line-height: 1em;
+    color: white;
+}
+h1.outset 
+{
+    border-style: outset;
+    border-width: 5px 10px;
+}
+h2 
+{
+    padding-left: 20px;
+	font-family: courier, monospace,serif;
+    font-size: 2em;    
+    color: #14213d;
+    text-decoration: underline;
+}
+p
+{
+    padding-left: 20px;
+	font-family: courier, monospace,serif;
+    font-size: 1.3em;    
+    color: purple;
+    font-weight: bold;
+}
+li  
+{
+	font-family: courier, monospace,serif;
+    font-size: 1em;    
+    color: #333286;
+    font-weight: bolder;
+}
+#wrapper
+     {
+      background-color: #571414;
+      padding:0px;
+     }
+#footer
+{
+       background-color: #571414;
+      padding:0px;
+}
+#grad 
+{
+background-color: #FBAB7E;
+background-image: linear-gradient(62deg, #e5e5e5 0%, #F7CE68 100%);
+}
+.image img 
+{
+    width: 100%;
+}
+
